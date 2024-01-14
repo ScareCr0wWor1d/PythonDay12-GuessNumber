@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae6e1660-3331-446c-b3c7-f0f697116dd5" name="Changes" comment="Final" />
+    <list default="true" id="ae6e1660-3331-446c-b3c7-f0f697116dd5" name="Changes" comment="Final with function" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +18,20 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ScareCr0wWor1d"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="ecc70ee3-6eac-44d6-891c-e76d676b1bca" />
+        <option name="url" value="https://github.com/ScareCr0wWor1d/PythonDay12-GuessNumber" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 3
@@ -92,12 +106,21 @@
       <option name="project" value="LOCAL" />
       <updated>1705271549901</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Final with function">
+      <option name="closed" value="true" />
+      <created>1705274860524</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1705274860524</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Commit" />
     <MESSAGE value="Final" />
-    <option name="LAST_COMMIT_MESSAGE" value="Final" />
+    <MESSAGE value="Final with function" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final with function" />
   </component>
 </project>
